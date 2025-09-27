@@ -10,10 +10,8 @@
 <br>
 
 ## 💫 About Me:
-- 👨‍💻 IT Engineer at [vROOT](https://vroot.com) | DevOps Engineer at Digital Egypt Pioneers
+- 👨‍💻 IT Engineer at [vROOT](https://vroot.com) | DevOps Engineer at [Digital Egypt Pioneers](https://depi.gov.eg)
 - 🎓 Certifications in CCNAv7, AWS Cloud Foundation, and MCSA 2019
-- 🛠️ Managing Active Directory, ESXi, Cisco devices, and maintaining inter-branch networks
-- 🚀 Aspiring DevOps Engineer, focusing on RHEL, automation, cloud & CI/CD
 - 🌱 I’m currently learning DevOps practices, Kubernetes, and cloud automation
 - 💬 Ask me about VMware, Linux, Docker, Networking, and Cloud
 - 📫 How to reach me: yossefsalem.dev@gmail.com
@@ -36,19 +34,19 @@
 <details open>
     <summary><h2>🧰 Languages & Tools:</h2></summary>
     <p align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" width=40px alt="VMware ESXi" title="VMware ESXi"/>
-        &#8287;&#8287;&#8287;&#8287;&#8287;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width=40px alt="RHEL" title="RHEL"/>
         &#8287;&#8287;&#8287;&#8287;&#8287;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width=40px alt="Windows Server" title="Windows Server"/>
+        &#8287;&#8287;&#8287;&#8287;&#8287;
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/vmware-vcenter.webp" width=40px alt="VMware ESXi" title="VMware ESXi"/>
         &#8287;&#8287;&#8287;&#8287;&#8287;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width=40px alt="Docker" title="Docker"/>
         &#8287;&#8287;&#8287;&#8287;&#8287;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width=40px alt="NGINX" title="NGINX"/>
         &#8287;&#8287;&#8287;&#8287;&#8287;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width=40px alt="AWS" title="AWS"/>
+        <img src="https://www.svgrepo.com/show/376356/aws.svg" width=40px alt="AWS" title="AWS"/>
         &#8287;&#8287;&#8287;&#8287;&#8287;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width=40px alt="Cisco" title="Cisco"/>
+        <img src="https://static.cdnlogo.com/logos/c/56/cisco.svg" width=40px alt="Cisco" title="Cisco"/>
         &#8287;&#8287;&#8287;&#8287;&#8287;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=40px alt="Git" title="Git"/>
         &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -58,7 +56,7 @@
         &#8287;&#8287;&#8287;&#8287;&#8287;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=40px alt="VS Code" title="VS Code"/>
         &#8287;&#8287;&#8287;&#8287;&#8287;
-        <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jenkins_icon_130525.png" width=40px alt="Jenkins" title="Jenkins"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" width=40px alt="Jenkins" title="Jenkins"/>
         &#8287;&#8287;&#8287;&#8287;&#8287;
         <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width=40px alt="GitLab CI" title="GitLab CI"/>
         &#8287;&#8287;&#8287;&#8287;&#8287;
