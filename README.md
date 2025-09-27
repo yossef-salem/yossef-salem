@@ -10,10 +10,10 @@
 <br>
 
 ## 💫 About Me:
-- 👨‍💻 IT Engineer at [vROOT](https://vroot.com) | DevOps Engineer at [Digital Egypt Pioneers](https://depi.gov.eg)
+- 👨‍💻 Former IT Engineer at [vROOT](https://vroot.com) | DevOps Engineer at [Digital Egypt Pioneers](https://depi.gov.eg)
 - 🎓 Certifications in CCNAv7, AWS Cloud Foundation, and MCSA 2019
 - 🌱 I’m currently learning DevOps practices, Kubernetes, and cloud automation
-- 💬 Ask me about VMware, Linux, Docker, Networking, and Cloud
+- 💬 Ask me about IT in general, Linux, Docker, Networking, and Cloud
 - 📫 How to reach me: yossefsalem.dev@gmail.com
 
 <br>
