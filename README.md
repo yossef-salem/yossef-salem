@@ -50,7 +50,7 @@
         &#8287;&#8287;&#8287;&#8287;&#8287;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=40px alt="Git" title="Git"/>
         &#8287;&#8287;&#8287;&#8287;&#8287;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width=40px alt="GitHub" title="GitHub"/>
+        <img src="https://www.svgrepo.com/show/512317/github-142.svg" width=40px alt="GitHub" title="GitHub"/>
         &#8287;&#8287;&#8287;&#8287;&#8287;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width=40px alt="Bash" title="Bash"/>
         &#8287;&#8287;&#8287;&#8287;&#8287;
